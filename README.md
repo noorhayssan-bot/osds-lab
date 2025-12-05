@@ -2,6 +2,8 @@
 
 This is the repository where the materials for the Operating Systems: Design and Security Lab can be found.
 
+This is new feature.
+
 In the lab we will touch on several subjects and exploitation techniques also explained in the course, such as:
 
 * Virtual Memory
